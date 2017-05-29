@@ -1,4 +1,6 @@
 <?php
 
-echo "hello";
+echo "hi";
+
+echo "second line";
 
